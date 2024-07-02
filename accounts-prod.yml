@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs "
   contactDetails:
     name: "Kim - Product Owner"
-    email: "kim@example.com"
+    email: "{cipher}931f068bfa4e519d30e6e7a293a25efe3c5856015768c3903edf5d5e89dbe251"
   onCallSupport:
     - +8801XXXXXXXXX
     - +8801XXXXXXXX1
